@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Debug packages stay local. Publish release packages through GitHub Releases.
+/releases/*-debug.apk
+
+# Personal agent instructions stay local to each developer.
+/AGENTS.md
+/CLAUDE.md
