@@ -50,4 +50,4 @@ Debug APKs and local Android Studio state are intentionally ignored. Publish use
 
 ## License
 
-No license has been selected yet. Until a license is added, do not assume permission to reuse or distribute this code.
+VidShrink is released into the public domain under the [Unlicense](UNLICENSE). You may use, modify, and distribute it for any purpose.
